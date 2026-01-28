@@ -46,7 +46,6 @@ public class MenuService {
         switch (opcao) {
             case 1:
                 formularioService.lerFormulario();
-
                 break;
             case 2:
                 System.out.println("case 1");
